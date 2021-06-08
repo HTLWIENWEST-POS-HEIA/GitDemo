@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
     }
     public double plus(double a, double b){
-        return 0;
+        return a+b;
     }
     public double minus(double a, double b){
         return 0;
