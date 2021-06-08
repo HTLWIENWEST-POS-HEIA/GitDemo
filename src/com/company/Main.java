@@ -12,7 +12,7 @@ public class Main {
         return a-b;
     }
     public double mult(double a, double b){
-        return 0;
+        return a*b;
     }
     public double divid(double a, double b){
         return 0;
