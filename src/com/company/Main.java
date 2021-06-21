@@ -17,4 +17,8 @@ public class Main {
     public double divid(double a, double b){
         return 0;
     }
+// griess.p19 add modulo    
+    public int modulo(int a, int b){
+        return a%b;
+    }
 }
